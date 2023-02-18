@@ -49,11 +49,13 @@ nav li a:hover{
     color: black;
 }
 section{
+    text-align: justify;
     margin-left: 9px;
     min-height: 900px;
     float:left;
     width: 60%;
     background-color: #DCFFF1;
+    justify-content: center;
     
 }
 
