@@ -24,7 +24,7 @@ header{
 }
 nav{
     font-size: 25px;
-    min-height: 800px;
+    min-height: 900px;
     float:left;
     width: 20%;
     background:#DCFFF1
@@ -50,7 +50,7 @@ nav li a:hover{
 }
 section{
     margin-left: 9px;
-    min-height: 800px;
+    min-height: 900px;
     float:left;
     width: 60%;
     background-color: #DCFFF1;
@@ -64,7 +64,7 @@ aside{
     justify-content: center;
     float: right;
     width: 19%;
-    min-height: 800px;
+    min-height: 900px;
     background-color: #DCFFF1;
     margin-bottom: 10px;
 }
